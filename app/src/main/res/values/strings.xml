@@ -1,0 +1,28 @@
+<resources>
+    <string name="txt_title">Select Excercise </string>
+
+    <string-array name="exercises">
+
+        <item> Exercise 1</item>
+        <item> Exercise 2</item>
+
+    </string-array>
+    <string name="hello_world">Enter start and end address:</string>
+    <string name="directions"> Directions:</string>
+    <string name="app_name">Transit and Messaging App</string>
+
+    <string name="hello_world1">Welcome to Messaging page!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_message">MessageActivity</string>
+
+    <string-array name="contacts">
+        <item>Larry Page</item>
+        <item>Sergey Brin</item>
+        <item>Eric Schmidt</item>
+        <item>Andy Rubin</item>
+        <item>James Gosling</item>
+        <item>Anders Hejlsberg </item>
+        <item>Bjarne Stroustrup</item>
+
+    </string-array>
+</resources>
